@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658474747864",
+    "project_id": "golazoooo",
+    "storage_bucket": "golazoooo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658474747864:android:9d3d4b89d06ea7f845d4ad",
+        "android_client_info": {
+          "package_name": "com.xacrysdevs.golazoooo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGZHC5DfeymZ8mw09XIQHzXYBtM8PdKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

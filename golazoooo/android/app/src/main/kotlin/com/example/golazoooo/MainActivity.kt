@@ -1,4 +1,4 @@
-package com.example.golazoooo
+package com.xacrysdevs.golazoooo
 
 import io.flutter.embedding.android.FlutterActivity
 
